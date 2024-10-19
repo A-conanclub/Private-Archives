@@ -2,7 +2,11 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Private%20Archives&fontSize=90&fontAlign=50&fontAlignY=30&desc=Welcome!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-This warehouse is used to store personal private media files, usually in image format. All files in this warehouse are stored only with the help of the GitHub platform and do not comply with any open-source agreements. Therefore, copying and dissemination of all content in this warehouse are prohibited without my permission.
+
+- The content of this warehouse stores personal privacy files
+- Although this warehouse belongs to the open mode, all content in it must not be copied, downloaded, saved, disseminated, etc. Any operation
+- Although this repository uses the GPL-2.0 license, the content is not open-source
+- If any documents in this warehouse are illegal in the region or country where the visitor is located, please abide by the laws of the country where you are located
 
 <!-- 徽章图标 -->
 <p align="center">
