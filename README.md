@@ -7,6 +7,8 @@ This warehouse is used to store personal private media files, usually in image f
 <!-- 徽章图标 -->
 <p align="center">
 <a href="https://github.com/A-conanclub/Private-Archives"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/A-conanclub/Private-Archives"></a>
+<a href="https://github.com/A-conanclub/Private-Archives"><img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/A-conanclub/Private-Archives"></a>
+<img alt="GitHub License" src="https://img.shields.io/github/license/A-conanclub/Private-Archives">
 <a href="https://wakatime.com/@conanclub"><img src="https://wakatime.com/badge/github/A-conanclub/Private-Archives.svg" alt="wakatime"></a>
 <!-- 访客统计 -->
 <img src="https://komarev.com/ghpvc/?username=A-conanclub" />
