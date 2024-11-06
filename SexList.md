@@ -11,3 +11,4 @@
 |Colleague|✓|
 |Leader|✓|
 |Subordinate|✓|
+|UP Master||
